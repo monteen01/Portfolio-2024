@@ -1,4 +1,4 @@
-Project Like : [`🔗`](https://portfolio-monteen.vercel.app/)
+Project Like : (https://portfolio-monteen.vercel.app/)
 
 ## Getting Started
 
